@@ -1,5 +1,5 @@
-# It's my first day learning C++ (August 9, 2026) 🐛:
-C++ exercises. problem solving 🚀:    
+# It's my first day learning C++ (August 9, 2026) 🐛
+C++ exercises. problem solving 🚀    
 I started this section with Exercise 1.3 (Introduction to objects and variables)  == **In C++, single quotes (') denote a single character (char), while double quotes (") denote string literals, whereas numeric values ​​are written without quotes. This distinction determines how the compiler interprets data types - for example, by differentiating the character 'a' from the string "a". (Here is what I understood from this exercise, 1.3.)**
 ```cpp
 int main()
@@ -12,7 +12,7 @@ int main()
     return 0;
 }
 ```
-**(I copied this code from a website today.)**
+**(I copied this code from a website today ©️.)**
 
 **I also figured out how to display an int variable on the screen:** 
 
@@ -26,4 +26,4 @@ int main()
     return 0;
 }
 ```
-***(I use comments to explain to myself more clearly how to insert comments 📚:.)***
+***(I use comments to explain to myself more clearly how to insert comments 📚.)***
