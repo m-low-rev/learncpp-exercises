@@ -1,4 +1,4 @@
-# 9 august 2026
+# 9 august 2026  the beginning of the journey
 ### I am from Russia myself and would like to move to Scotland to the city of Aberdeen; it is my dream.
 I started by learning C++ on the website "learncpp.com", *I am also studying Hacking: The Art of Exploitation, 2nd Edition.*
 
