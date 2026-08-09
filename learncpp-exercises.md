@@ -12,7 +12,7 @@ int main()
     return 0;
 }
 ```
-**(I copied this code from a website today ©️.)**
+**(©️ I copied this code from a website today.)**
 
 **I also figured out how to display an int variable on the screen:** 
 
