@@ -20,7 +20,7 @@ int main()
 #include <iostream> 
 int main() 
 {
-    int x = 5;
+    int x = 5; //This is a variable of type int
     std::cout << x;
     
     return 0;
