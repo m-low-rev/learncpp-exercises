@@ -21,8 +21,9 @@ int main()
 int main() 
 {
     int x = 5; //This is a variable of type int
-    std::cout << x;
+    std::cout << x; //We output the value to the screen using an int variable.
     
     return 0;
 }
 ```
+***(I use comments to explain to myself more clearly how to insert comments 📚:.)***
