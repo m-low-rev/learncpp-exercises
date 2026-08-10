@@ -8,4 +8,4 @@ Here you'll find all my thoughts, code, and solutions that I'm happy to share. ð
 ### Wish me luck! 
 
 # 10 august 2026  the beginning of the journey
-I feel relieved, even though this day wasn't productive. 
+I feel relieved, even though this day wasn't productive. ðŸ˜Œ
