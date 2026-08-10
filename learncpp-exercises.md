@@ -27,7 +27,7 @@ int main()
 }
 ```
 ***(I use comments to explain to myself more clearly how to insert comments 📚.)***\
-###A new day arrived, and I immediately wrote my second program. I was in a good mood. That’s all for today.
+# A new day arrived, and I immediately wrote my second program. I was in a good mood. That’s all for today.
 ```cpp
 #include <iostream> //for std::cout
 int main() 
