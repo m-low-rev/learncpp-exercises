@@ -6,3 +6,6 @@ Here you'll find all my thoughts, code, and solutions that I'm happy to share. �
 
 **I’m feeling a bit apathetic and tired today; I only got through one lesson on learncpp.com.** 🔨
 ### Wish me luck! 
+
+# 10 august 2026  the beginning of the journey
+I feel relieved, even though this day wasn't productive. 
