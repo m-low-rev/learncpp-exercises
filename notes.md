@@ -11,3 +11,4 @@ Here you'll find all my thoughts, code, and solutions that I'm happy to share. �
 I feel relieved, even though this day wasn't productive. 😌
 # 11 august 2026  the beginning of the journey
 I managed to complete only one English lesson. 🔨 https://youtu.be/xioVluBC0Ac?si=XbPiNA1FXYdmTfkg
+##Today I installed WSL Ubuntu and set up Neovim. It wasn't easy, but I managed to do it.!!!!!!
