@@ -9,3 +9,5 @@ Here you'll find all my thoughts, code, and solutions that I'm happy to share. �
 
 # 10 august 2026  the beginning of the journey
 I feel relieved, even though this day wasn't productive. 😌
+# 11 august 2026  the beginning of the journey
+I managed to complete only one English lesson. 🔨
